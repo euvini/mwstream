@@ -79,9 +79,10 @@ $ npm i
 ### Set Up Environment Variables
 
 Create a new file named `.env` in the root of your project and add the following content:
+(The api key should be from The Movie Database API v3 - https://www.themoviedb.org/documentation/api)
 
 ```bash
-	API_KEY=***********
+API_KEY=***********
 ```
 
 ### Build
