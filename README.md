@@ -94,3 +94,5 @@ Build Android: yarn android or npm run android
 ```
 
 ### Screenshots
+
+![Presentation](screenshots/presentation.png)
