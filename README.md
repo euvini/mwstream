@@ -65,9 +65,7 @@ The project structure is organized as follows:
 ### Cloning the Repository
 
 ```bash
-git clone https://[your_repository]/MW-STREAM.git
-
-
+git clone https://github.com/euvini/mwstream.git
 ```
 
 ### Instalação
