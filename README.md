@@ -10,7 +10,13 @@ The primary objective of MW-STREAM is to list and search for movies and series w
 
 ## Technologies Used
 
-- **React Native**: Framework for developing native mobile applications.
+- **React Native**
+- **Expo**
+- **Typescript**
+- **Axios**
+- **Reanimated**
+- **AsyncStorage**
+- **React Native Testing Library**
 
 ## Folder Structure
 
